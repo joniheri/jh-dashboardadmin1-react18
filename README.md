@@ -1,5 +1,8 @@
 # DOCUMENTATION BY JON HERI
 
+<div align="center">
+  <img src="./public/assets/images/preview1.jpg" alt="Bootstrap logo">
+</div>
 - Node JS 16.17.x
 - NPM 8.19.x
 
