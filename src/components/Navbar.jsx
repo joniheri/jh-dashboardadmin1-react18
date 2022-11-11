@@ -20,7 +20,7 @@ export default function Navbar() {
           ></span>
         </button>
         <a className="navbar-brand me-auto ms-lg-0 ms-3" href="#">
-          PT Bank Mandiri (Persero) Tbk.
+          Jon Heri
         </a>
         <button
           className="navbar-toggler"
