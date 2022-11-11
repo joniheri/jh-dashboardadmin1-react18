@@ -1,7 +1,7 @@
 # DOCUMENTATION BY JON HERI
 
 <div align="center">
-  <img src="./public/assets/images/preview1.jpg" alt="Bootstrap logo">
+  <img src="https://raw.githubusercontent.com/joniheri/jh-dashboardadmin1-react18/master/public/assets/images/preview1.png" alt="Dashboard Admin">
 </div>
 - Node JS 16.17.x
 - NPM 8.19.x
